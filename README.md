@@ -5,6 +5,10 @@
 | ------ | ------ |
 | Program Language | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
+## 2023년
+
+- [2023년 10월](https://github.com/dongggggae/Algorithm-Practice/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/10%EC%9B%943%EC%A3%BC)
+
 ## 개요
 
 > 하루하루 푼 문제를 기록하고 어떻게 풀었는지에 대한 기록을 남기려고 만들게 되었다.
